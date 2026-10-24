@@ -1,0 +1,2 @@
+ArrayList uses an array internally, so accessing an element by its index is fast. However, inserting or deleting at the beginning requires shifting elements.
+LinkedList uses nodes connected by references, so inserting or deleting at the beginning or end is fast. However, accessing an element at a random index requires traversing the list.
